@@ -9,10 +9,10 @@ Goal to save a surplus amount the pays the rent of the house and give flexibilit
 Example plan
 ------------
 
-Rent of house  					: 15,000 
-Approximate surplus requirec 	: 20,00,000
-RD monthly @8.5 				: 26,600
-Term 							: 5 years 
+- Rent of house  					: 15,000 
+- Approximate surplus requirec 	: 20,00,000
+- RD monthly @8.5 				: 26,600
+- Term 							: 5 years 
 
 After term
 ----------
